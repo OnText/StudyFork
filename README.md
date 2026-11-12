@@ -1,7 +1,5 @@
-<h1><span style="color: red;">转载来自：HGhub 源库，请点击小星星</span></h1>
+<h1><span style="color: red;">HGhub</span></h1>
 
-# HGhub
-（FROK不点小星星的人=看黄果也打不出来-哈哈）
 
 **基于 Rust 与 Tauri 2 的跨平台界面与交互实践项目。**
 
